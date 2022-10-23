@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
   background-color: grey;
-  margin: 10px;
+  margin: 20px;
 }
 
 p1 {
@@ -32,5 +32,5 @@ a {
 }
 
 main {
-  padding-right: 5px;
+  padding-right: 10px;
 }
